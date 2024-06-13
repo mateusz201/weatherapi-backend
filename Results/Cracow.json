@@ -1,0 +1,48 @@
+{
+  "forecast": {
+    "forecastDays": [
+      {
+        "date": "2024-06-13",
+        "day": {
+          "maxTempC": 11,
+          "minTempC": 6.6,
+          "avgTempC": 9.2,
+          "maxWindKph": 10.8,
+          "totalPrecipitationMm": 3.41,
+          "totalSnowfallCm": 0,
+          "avgHumidity": 93,
+          "avgVisibilityKm": 6.6,
+          "uv": 1
+        }
+      },
+      {
+        "date": "2024-06-14",
+        "day": {
+          "maxTempC": 19.1,
+          "minTempC": 5.7,
+          "avgTempC": 13.1,
+          "maxWindKph": 13.3,
+          "totalPrecipitationMm": 0,
+          "totalSnowfallCm": 0,
+          "avgHumidity": 77,
+          "avgVisibilityKm": 10,
+          "uv": 7
+        }
+      },
+      {
+        "date": "2024-06-15",
+        "day": {
+          "maxTempC": 23.9,
+          "minTempC": 9,
+          "avgTempC": 17.1,
+          "maxWindKph": 10.8,
+          "totalPrecipitationMm": 0,
+          "totalSnowfallCm": 0,
+          "avgHumidity": 72,
+          "avgVisibilityKm": 10,
+          "uv": 7
+        }
+      }
+    ]
+  }
+}
